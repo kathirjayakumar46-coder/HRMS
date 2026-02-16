@@ -1,0 +1,8 @@
+flask
+python-dotenv
+pillow
+beautifulsoup4
+faiss-cpu
+sentence-transformers
+google-generativeai
+numpy
